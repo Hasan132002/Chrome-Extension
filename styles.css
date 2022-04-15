@@ -1,0 +1,6 @@
+html{
+    filter:  darken(1) hue-rotate(180deg)
+}
+img, picture, video{
+    filter: darken(1) hue-rotate(180deg)
+}
